@@ -1,0 +1,14 @@
+<!Doctype html>
+<html>
+<head>
+<title> MOTEL </title>
+</head>
+<h1 style="color:pink;">RESERVATION</h1>
+</style>
+<h2 style="color:blue;">Rooms availability</h2>
+</style>
+<h2 style="color:red;">Room Type</h3>
+</style>
+<h2 style="color:red;">Reservation Date</h1>
+</style>
+</html>

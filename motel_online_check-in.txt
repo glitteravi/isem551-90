@@ -1,0 +1,27 @@
+<!Doctype html>
+<html>
+<head>
+<title> MOTEL </title>
+</head>
+<h1 style="color:pink;">ONLINE CHECKIN</h1>
+</style>
+<h2 style="color:blue;">Guest name: <input type="text"></h2>
+</style>
+<h2 style="color:red;">Reservation ID: <input type="text"></h3>
+</style> </br>
+<button onclick="myFunction()">Enter</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var x;
+    if (confirm("Press a button!") == true) {
+        x = "You pressed OK!";
+    } else {
+        x = "You pressed Cancel!";
+    }
+    document.getElementById("demo").innerHTML = x;
+}
+</script>
+</html>
